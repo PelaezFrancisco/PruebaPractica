@@ -1,0 +1,123 @@
+
+body{
+  background-color: rgb(175, 173, 186);
+}
+.encabezado{
+  background-color: rgb(66, 69, 92);
+  margin-left: 5px;
+  margin-right: 5px;
+  height: 130px;
+}
+.logo{
+  margin: 10px 0px 0px 0px;
+  width: 500px;
+  height: 120px;
+}
+.navtop{
+  width: 45%;
+  position: relative;
+  top: -110px;
+  left: 600px;
+  overflow: hidden;
+  background-color: rgb(190, 99, 25);
+  padding: 10px;
+}
+.navtop p{
+  padding: 10px;
+  margin: 2px 45px;
+  float: left;
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 14pt;
+}
+.section{
+  position: relative;
+  top: -19px;
+  width: 60%;
+  background-color: rgb(255, 255, 255);
+  margin-left: 5px;
+  margin-right: 5px;
+
+}
+h2{
+  font-size: 18pt;
+  margin-left: 20px;
+}
+.section .parrafo{
+  border-bottom: 3px solid black;
+}
+.section p{
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  height: 110px;
+}
+
+.section2{
+  width: 39.35%;
+  height: 378px;
+  background-color: rgb(244, 182, 63); /* Color bloques*/
+  position: relative;
+  top: -413px;
+  left: 907px;
+}
+.bl{
+  position: relative;
+  top: 30px;
+  left: 100px;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-left: 20px;
+  width: 350px;
+  height: 150px;
+  background-color: rgb(190, 99, 25);
+}
+.footer{
+  position: relative;
+  top: -413px;
+  background-color: rgb(66, 69, 92);
+  margin-left: 5px;
+  margin-right: 5px;
+  height: 130px;
+
+}
+
+.navtop1{
+  width: 30%;
+  position: relative;
+  top: 20%;
+  left: 80px;
+  overflow: hidden;
+  background-color: rgb(190, 99, 25);
+  padding: 10px;
+}
+.navtop1 p{
+  padding: 2px;
+  margin: 2px 25px;
+  float: left;
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 14pt;
+}
+
+.navtop1{
+  width: 30%;
+  position: relative;
+  top: 20%;
+  left: 80px;
+  overflow: hidden;
+  background-color: rgb(190, 99, 25);
+  padding: 10px;
+}
+.navtop1 p{
+  padding: 2px;
+  margin: 2px 25px;
+  float: left;
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 14pt;
+}
